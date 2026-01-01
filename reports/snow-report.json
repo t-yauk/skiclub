@@ -1,0 +1,24 @@
+{
+	"weather_report": [
+		{
+			"current_weather": "-14",
+			"current_condition": "scattered clouds",
+			"current_wind": "12"
+		}
+	]
+},
+
+{
+	"snow_report": [
+		{
+			"base": "95",
+			"conditions": "machine groomed",
+			"last_24": "20",
+			"last_48": "23",
+			"season_total": "115",
+			"snowmaking": "true",
+			"open_hectares": "70",
+			"total_hectares": "150"
+		}
+	]
+}

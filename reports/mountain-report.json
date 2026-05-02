@@ -1,11 +1,11 @@
-{
+{	
 	"mountain_report": [
 		{
-			"open_runs": "18",
+			"open_runs": "13",
 			"total_runs": "18",
 			"open_lifts": "6",
-			"total_lift": "6",
-            "open_hectares": "150",
+			"total_lift": "4",
+            "open_hectares": "100",
             "total_hectares": "150"
 		},
 
@@ -21,322 +21,86 @@
 			"current_weather": "0",
 			"current_conditions": "Overcast Clouds",
 			"wind": "13"
-		},
-
+		},	
+	],
+	"Lifts": [
 		{
-			"lifts": [
-				{
-					"name": "Low's Chair",
-					"type": "4 Pack",
-					"status": "open",
-					"id": "1",
-					"hours": {
-						"monday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"tuesday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"wednesday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"thursday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"friday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"saturday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"sunday": {
-							"open": "8:30",
-							"closed": "16:00"
-						}
-					}
-				},
-				{
-					"name": "Magic Carpet",
-					"type": "Surface Lift",
-					"status": "open",
-					"id": "2",
-					"hours": {
-						"monday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"tuesday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"wednesday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"thursday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"friday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"saturday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"sunday": {
-							"open": "8:30",
-							"closed": "16:00"
-						}
-					}
-				},
-				{
-					"name": "Summit Chair",
-					"type": "4 Pack",
-					"status": "open",
-					"id": "3",
-					"hours": {
-						"monday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"tuesday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"wednesday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"thursday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"friday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"saturday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"sunday": {
-							"open": "8:30",
-							"closed": "16:00"
-						}
-					}
-				},
-				{
-					"name": "Javelin Chair",
-					"type": "3 Pack",
-					"status": "open",
-					"id": "4",
-					"hours": {
-						"monday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"tuesday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"wednesday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"thursday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"friday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"saturday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"sunday": {
-							"open": "8:30",
-							"closed": "16:00"
-						}
-					}
-				},
-				{
-					"name": "Big Tree",
-					"type": "T-Bar",
-					"status": "open",
-					"id": "5",
-					"hours": {
-						"monday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"tuesday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"wednesday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"thursday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"friday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"saturday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"sunday": {
-							"open": "8:30",
-							"closed": "16:00"
-						}
-					}
-				},
-				{
-					"name": "Devil's Staircase",
-					"type": "T-Bar",
-					"status": "open",
-					"id": "6",
-					"hours": {
-						"monday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"tuesday": {
-							"open": "closed",
-							"closed": "closed"
-						},
-						"wednesday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"thursday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"friday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"saturday": {
-							"open": "8:30",
-							"closed": "16:00"
-						},
-						"sunday": {
-							"open": "8:30",
-							"closed": "16:00"
-						}
-					}
-				}
-			]
+			"name": "Low's Chair"
 		},
-
 		{
-			"trails": [
-				{
-					"name": "Easy Does It",
-					"type": "easy",
-					"status": "open"
-				},
-				{
-					"name": "Awesome",
-					"type": "easy",
-					"status": "open"
-				},
-				{
-					"name": "Shortcut",
-					"type": "intermediate",
-					"status": "open"
-				},
-				{
-					"name": "Gilly's Glade",
-					"type": "intermediate",
-					"status": "open"
-				},
-				{
-					"name": "Hector's Hollow",
-					"type": "intermediate",
-					"status": "open"
-				},
-				{
-					"name": "Javelin",
-					"type": "intermediate",
-					"status": "open"
-				},
-				{
-					"name": "Chalet Run",
-					"type": "easy",
-					"status": "open"
-				},
-				{
-					"name": "Boomerange",
-					"type": "intermediate",
-					"status": "open"
-				},
-				{
-					"name": "Hemlock",
-					"type": "easy",
-					"status": "open"
-				},
-				{
-					"name": "The Glades",
-					"type": "advanced",
-					"status": "open"
-				},
-				{
-					"name": "Low's Run",
-					"type": "intermediate",
-					"status": "open"
-				},
-				{
-					"name": "Big Tree",
-					"type": "advanced",
-					"status": "open"
-				},
-				{
-					"name": "Devil's Staircase",
-					"type": "advanced",
-					"status": "open"
-				},
-				{
-					"name": "Breenger",
-					"type": "advanced",
-					"status": "open"
-				},
-				{
-					"name": "Mousetrap",
-					"type": "advanced",
-					"status": "open"
-				},
-				{
-					"name": "Sully's Dream",
-					"type": "advanced",
-					"status": "open"
-				},
-				{
-					"name": "Auction Run",
-					"type": "advanced",
-					"status": "open"
-				},
-				{
-					"name": "Outer Limits",
-					"type": "intermediate",
-					"status": "open"
-				}
-			]
+			"name": "Summit Chair"
+		},
+		{
+			"name": "Javelin Chair"
+		},
+		{
+			"name": "Big Tree T-Bar"
+		},
+		{
+			"name": "Devil's Staircase T-Bar"
+		},
+		{
+			"name": "Awesome Magic Cartpet"
+		}
+	],
+	"easy_terrain": [
+		{
+			"name": "Awesome"
+		},
+		{
+			"name": "Chalet Run"
+		},
+		{
+			"name": "Hemlock"
+		},
+		{
+			"name": "Easy Does It"
+		}
+	],
+	"intermediate_terrain": [
+		{
+			"name": "Javelin"
+		},
+		{
+			"name": "Boomerang"
+		},
+		{
+			"name": "Outer Limits"
+		},
+		{
+			"name": "Gilly's"
+		},
+		{
+			"name": "Hector's Hollow"
+		},
+		{
+			"name": "Low's Run"
+		},
+		{
+			"name": "Shortcut"
+		},
+		{
+			"name": "Glades"
+		}
+	],
+	"difficult_terrain": [
+		{
+			"name": "Devil's Staircase"
+		},
+		{
+			"name": "Breenger"
+		},
+		{
+			"name": "Mousetrap"
+		},
+		{
+			"name": "Sully's Dream"
+		},
+		{
+			"name": "Big Tree"
+		},
+		{
+			"name": "Auction Run"
 		}
 	]
 }

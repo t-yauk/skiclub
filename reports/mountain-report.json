@@ -45,62 +45,80 @@
 	],
 	"easy_terrain": [
 		{
-			"name": "Awesome"
+			"name": "Awesome",
+			"status": "open"
 		},
 		{
-			"name": "Chalet Run"
+			"name": "Chalet Run",
+			"status": "open"
 		},
 		{
-			"name": "Hemlock"
+			"name": "Hemlock",
+			"status": "open"
 		},
 		{
-			"name": "Easy Does It"
+			"name": "Easy Does It",
+			"status": "open"
 		}
 	],
 	"intermediate_terrain": [
 		{
-			"name": "Javelin"
+			"name": "Javelin",
+			"status": "open"
 		},
 		{
-			"name": "Boomerang"
+			"name": "Boomerang",
+			"status": "open"
 		},
 		{
-			"name": "Outer Limits"
+			"name": "Outer Limits",
+			"status": "closed"
 		},
 		{
-			"name": "Gilly's"
+			"name": "Gilly's",
+			"status": "closed"
 		},
 		{
-			"name": "Hector's Hollow"
+			"name": "Hector's Hollow",
+			"status": "open"
 		},
 		{
-			"name": "Low's Run"
+			"name": "Low's Run",
+			"status": "closed"
 		},
 		{
-			"name": "Shortcut"
+			"name": "Shortcut",
+			"status": "closed"
 		},
 		{
-			"name": "Glades"
+			"name": "Glades",
+			"status": "closed"
 		}
 	],
 	"difficult_terrain": [
 		{
-			"name": "Devil's Staircase"
+			"name": "Devil's Staircase",
+			"status": "open"
 		},
 		{
-			"name": "Breenger"
+			"name": "Breenger",
+			"status": "open"
 		},
 		{
-			"name": "Mousetrap"
+			"name": "Mousetrap",
+			"status": "closed"
 		},
 		{
-			"name": "Sully's Dream"
+			"name": "Sully's Dream",
+			"status": "closed"
 		},
 		{
-			"name": "Big Tree"
+			"name": "Big Tree",
+			"status": "open"
 		},
 		{
-			"name": "Auction Run"
+			"name": "Auction Run",
+			"status": "closed"
 		}
 	]
 }

@@ -21,9 +21,9 @@
 			"current_weather": "0",
 			"current_conditions": "Overcast Clouds",
 			"wind": "13"
-		},	
+		}
 	],
-	"Lifts": [
+	"lifts": [
 		{
 			"name": "Low's Chair"
 		},

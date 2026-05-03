@@ -8,7 +8,6 @@
             "open_hectares": "83",
             "total_hectares": "150"
 		},
-
 		{
 			"base": "95",
 			"last24": "10",
@@ -16,7 +15,6 @@
 			"snow_conditions": "Machine Groomed",
             "snowmaking": "true"
 		},
-
 		{
 			"current_weather": "0",
 			"current_conditions": "Overcast Clouds",

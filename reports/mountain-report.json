@@ -3,8 +3,8 @@
 		{
 			"open_runs": "10",
 			"total_runs": "18",
-			"open_lifts": "6",
-			"total_lift": "4",
+			"open_lifts": "4",
+			"total_lift": "6",
             "open_hectares": "83",
             "total_hectares": "150"
 		},
@@ -25,22 +25,28 @@
 	],
 	"lifts": [
 		{
-			"name": "Low's Chair"
+			"name": "Low's Chair",
+			"status": "open"
 		},
 		{
-			"name": "Summit Chair"
+			"name": "Summit Chair",
+			"status": "closed"
 		},
 		{
-			"name": "Javelin Chair"
+			"name": "Javelin Chair",
+			"status": "open"
 		},
 		{
-			"name": "Big Tree T-Bar"
+			"name": "Big Tree T-Bar",
+			"status": "open"
 		},
 		{
-			"name": "Devil's Staircase T-Bar"
+			"name": "Devil's Staircase T-Bar",
+			"status": "closed"
 		},
 		{
-			"name": "Awesome Magic Cartpet"
+			"name": "Awesome Magic Cartpet",
+			"status": "open"
 		}
 	],
 	"easy_terrain": [

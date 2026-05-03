@@ -45,86 +45,122 @@
 			"status": "closed"
 		},
 		{
-			"name": "Awesome Magic Cartpet",
+			"name": "Awesome Magic Carpet",
 			"status": "open"
 		}
 	],
 	"easy_terrain": [
 		{
 			"name": "Awesome",
-			"status": "open"
+			"status": "open",
+			"location": "Learning Centre",
+			"access": ["Awesome Magic Carpet"]
 		},
 		{
 			"name": "Chalet Run",
-			"status": "open"
+			"status": "open",
+			"location": "South Side",
+			"access": ["Low's Chair"]
 		},
 		{
 			"name": "Hemlock",
-			"status": "open"
+			"status": "open",
+			"location": "South Side",
+			"access": ["Low's Chair"]
 		},
 		{
 			"name": "Easy Does It",
-			"status": "open"
+			"status": "open",
+			"location": "Learning Centre",
+			"access": ["Awesome Magic Carpet"]
 		}
 	],
 	"intermediate_terrain": [
 		{
 			"name": "Javelin",
-			"status": "open"
+			"status": "open",
+			"location": "South Side",
+			"access": ["Javelin Chair", "Low's Chair"]
 		},
 		{
 			"name": "Boomerang",
-			"status": "open"
+			"status": "open",
+			"location": "South Side",
+			"access": ["Javelin Chair", "Low's Chair", "Big Tree T-Bar"]
 		},
 		{
 			"name": "Outer Limits",
-			"status": "closed"
+			"status": "closed",
+			"location": "North Side",
+			"access": ["Summit Chair"]
 		},
 		{
 			"name": "Gilly's",
-			"status": "closed"
+			"status": "closed",
+			"location": "South Side",
+			"access": ["Javelin Chair"]
 		},
 		{
 			"name": "Hector's Hollow",
-			"status": "open"
+			"status": "open",
+			"location": "South Side",
+			"access": ["Javelin Chair"]
 		},
 		{
 			"name": "Low's Run",
-			"status": "closed"
+			"status": "closed",
+			"location": "South Side",
+			"access":["Low's Chair", "Big Tree T-Bar"]
 		},
 		{
 			"name": "Shortcut",
-			"status": "closed"
+			"status": "closed",
+			"location": "South Side",
+			"access": ["Javelin Chair"]
 		},
 		{
 			"name": "Glades",
-			"status": "closed"
+			"status": "closed",
+			"location": "South Side",
+			"access": ["Low's Chair", "Big Tree T-Bar"]
 		}
 	],
 	"difficult_terrain": [
 		{
 			"name": "Devil's Staircase",
-			"status": "open"
+			"status": "open",
+			"location": "North Side",
+			"access": ["Devil's Staircase T-Bar", "Summit Chair"]
 		},
 		{
 			"name": "Breenger",
-			"status": "open"
+			"status": "open",
+			"location": "North Side",
+			"access": ["Devi's Staircase T-Bar", "Summit Chair"]
 		},
 		{
 			"name": "Mousetrap",
-			"status": "closed"
+			"status": "closed",
+			"location": "North Side",
+			"access": ["Devil's Staircase T-Bar", "Summit Chair"]
 		},
 		{
 			"name": "Sully's Dream",
-			"status": "closed"
+			"status": "closed",
+			"location": "North Side",
+			"access": ["Summit Chair"]
 		},
 		{
 			"name": "Big Tree",
-			"status": "open"
+			"status": "open",
+			"location": "North Side",
+			"access": ["Low's Chair", "Big Tree T-Bar"]
 		},
 		{
 			"name": "Auction Run",
-			"status": "closed"
+			"status": "closed",
+			"location": "North Side",
+			"access": ["Summit Chair"]
 		}
 	]
 }
